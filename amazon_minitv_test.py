@@ -89,3 +89,6 @@ def test2():
     else:
         print("video is playing")
     driver.quit()
+    # TASK 4
+    # CHECK ASSERTION AND REPORTING BY RUNNING THE PYTEST AMAZON_MINITV_TEST.PY IN A TERMINAL OR A COMMAND PROMPT
+    # THANK-YOU
